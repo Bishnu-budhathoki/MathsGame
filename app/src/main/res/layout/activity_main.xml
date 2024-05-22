@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/formath"
+    android:background="@drawable/image"
     tools:context=".MainActivity">
 
     <TextView
@@ -13,7 +13,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="20dp"
         android:text="Math Game"
-        android:textColor="@color/design_default_color_on_primary"
+        android:textColor="@color/black"
         android:textSize="60sp"
         android:textStyle="bold" />
 
